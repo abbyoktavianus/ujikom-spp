@@ -33,3 +33,8 @@ Merekap semua histori pembayaran dalam bentuk file excel.
 - composer install
 - php artisan db:seed --class=AdministratorSeeder / bisa import menggunakan file sql yang tersedia.
 - php artisan serve
+
+
+## Akun Untuk Login Admin
+ • Username : abbyyy
+ • Password : 12345678
